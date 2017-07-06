@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Process-scheduling.iml" filepath="$PROJECT_DIR$/Process-scheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/进程调度模拟问题（有界面）.iml" filepath="$PROJECT_DIR$/进程调度模拟问题（有界面）.iml" />
+    </modules>
+  </component>
+</project>
